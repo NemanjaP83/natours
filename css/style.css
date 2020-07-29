@@ -163,6 +163,12 @@ body {
   overflow-x: hidden;
 }
 
+@media only screen and (max-width: 56.25em) {
+  body {
+    padding: 0;
+  }
+}
+
 .heading-primary {
   color: #fff;
   text-transform: uppercase;
