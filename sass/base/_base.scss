@@ -36,8 +36,4 @@ body {
   padding: 3rem;
   box-sizing: border-box;
   overflow-x: hidden;
-
-   @include respond(tabletPortrait) {
-    padding: 0;
-  }
 }
